@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title> Practise </title>
+</head>
+
+<body bgcolor="white">
+
+
+    <h1>
+        My name is Putu!
+
+    </h1>
+
+    <a href="https://www.google.com/">
+        Click me to google
+        
+
+    </a>
+</body >
+
+
+
+
+
+
+</html>
